@@ -5,7 +5,7 @@ This is our Solar Panel AI Project in which we are calculating efficiency of sol
 
 ![Efficiency Model](https://github.com/Hammad-Khan-aka-Ansar-Malik/AI-Project/assets/59333482/742cc828-8e33-4a2e-b90c-3d4bd33846d2)
 
-   **Efficiency Model**
+**Efficiency Model**
 
 ![RoboFlow Annotations](https://github.com/Hammad-Khan-aka-Ansar-Malik/AI-Project/assets/59333482/6c28d503-df2f-4da9-ada0-6bd081ae4e07)
 
