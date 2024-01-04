@@ -15,3 +15,4 @@ This is our Solar Panel AI Project in which we are calculating efficiency of sol
 
 **Mnist Dataset**
 
+For more info: https://www.kaggle.com/iambee
